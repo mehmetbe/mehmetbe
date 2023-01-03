@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mehmetbe
 - 👀 I’m interested in data science & machine learning.
 - 🌱 I’m currently learning data science software.
-- 💞️ I’m looking to collaborate on projects involving data modeling.
+- 💞️ I’m looking to collaborate on projects involving data analysis and modeling.
 - 📫 How to reach me: mehmetbe@buffalo.edu
 
 <!---
