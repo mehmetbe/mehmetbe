@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehmetbe
-- 👀 I’m interested in data science & machine learning.
-- 🌱 I’m currently learning data science software.
+- 👀 I’m interested in data analytics.
+- 🌱 I’m currently freelancing as a data analyst.
 - 💞️ I’m looking to collaborate on projects involving data analysis and modeling.
 - 📫 How to reach me: mehmetbe@buffalo.edu
 
